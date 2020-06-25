@@ -1,3 +1,3 @@
 module.exports.add = (a, b) => {
-    return a + b + 'papayaaaaa'
+    return a + b
 }
